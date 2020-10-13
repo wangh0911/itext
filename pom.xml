@@ -23,7 +23,7 @@
 	</build>
 
   <properties>
-    <junit.version>4.7</junit.version>
+    <junit.version>4.13.1</junit.version>
     <itextpdf.version>${project.version}</itextpdf.version>
   </properties>
 	<dependencies>
